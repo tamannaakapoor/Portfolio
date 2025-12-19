@@ -1,6 +1,6 @@
 <h2 align="center">
   Personal Portfolio Website<br/>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://portfolio-git-main-tamanna-kapoors-projects-fbec9912.vercel.app" target="_blank">
     your-portfolio-link.vercel.app
   </a>
 </h2>
