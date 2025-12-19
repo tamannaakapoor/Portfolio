@@ -16,20 +16,9 @@
 ![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)
 &nbsp;
 ![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
-&nbsp;
-![Open Source](https://forthebadge.com/images/badges/open-source.svg)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=for-the-badge)
-&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=for-the-badge)
 
 </div>
 
-<h3 align="center">
-  <a href="https://github.com/tamannaakapoor/Portfolio/issues">Report an Issue</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/tamannaakapoor/Portfolio/issues">Suggest an Improvement</a>
-</h3>
 
 ---
 
