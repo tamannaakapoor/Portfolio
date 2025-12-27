@@ -2,15 +2,26 @@ import { ArrowRight,ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    id: 1,
-    title: "YumCrave – Food Delivery Web Application",
-    description:
-      "A full-stack food delivery web application that allows users to browse restaurants, add items to cart, and place orders. Focused on clean UI, smooth user experience, and scalable frontend architecture.",
-    image: "/projects/project1.png",
-    tags: ["HTML","CSS", "Javascript", "React", "Express", "Vite", "Node.js","React Router"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/tamannaakapoor/YumCrave",
-  },
+  id: 1,
+  title: "YumCrave – Full-Stack Food Delivery Web App",
+  description:
+    "A full-stack food delivery web application built with the MERN stack, featuring user authentication, cart management, Stripe-based payments, order tracking, and an admin dashboard for product and order management.",
+  image: "/projects/project1.png",
+  tags: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Stripe",
+    "REST APIs",
+    "Vercel",
+    "Render"
+  ],
+  demoUrl: "https://yumcrave-food-delivery.vercel.app",
+  githubUrl: "https://github.com/tamannaakapoor/YumCrave-Food-Delivery",
+}
+,
   {
     id: 2,
     title: "Launchpad.dev – AI Career Coach Platform",
